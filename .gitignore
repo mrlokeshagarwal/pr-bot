@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Environment and secrets (if ever used locally)
+.env
+.env.local
+.env.*.local
+*.env
+
+# Config with credentials (stored in APPDATA by default, but exclude if present in repo)
+config.json
+state.json
+
+# Debug output
+ai-debug-response.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
