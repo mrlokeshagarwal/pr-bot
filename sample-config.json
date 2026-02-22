@@ -1,0 +1,13 @@
+{
+  "orgUrl": "https://dev.azure.com/YourOrg",
+  "project": "YourProject",
+  "defaultRepo": "YourRepo",
+  "codingStandardPath": "C:\\path\\to\\Code Standard.md",
+  "aiProvider": "claude",
+  "claudeModel": "claude-3-5-sonnet-latest",
+  "cursorModel": "claude-4-sonnet-thinking",
+  "openaiModel": "gpt-4o",
+  "githubPrUrl": "https://github.com/your-org/your-repo/pull/123",
+  "maxIssues": 8,
+  "dryRun": false
+}
